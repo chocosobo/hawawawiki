@@ -191,6 +191,28 @@ RSS 제외 {{!-- --}} 가두기
   </head>
 ~~~
 
+### footer 변경
+~~~
+# 불필요한 멤버권유 제거
+{{!-- Footer subscription --}}
+    {{#unless @member}}
+      <div class="footer__sub p-t-xl p-b-xl border-bottom-1">
+        <div class="row">
+          <div class="col-xs-12 col-md-6 footer__sub-text">
+            <h3 class="m-b-0">{{t "Ready to get started now?"}}</h3>
+            <div>{{t "Subscribe to get access to premium content or contact us if you have any questions."}}</div>
+          </div>
+          <div class="col-xs-12 col-md-6">
+            <div class="flex footer__sub-action">
+              <a href="/membership/" class="btn btn--brand btn--rounded m-r">{{t "Subscribe"}}</a>
+              <a href="/contact/" class="btn btn--bordered btn--rounded">{{t "Contact us"}}</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    {{/unless}}
+
+~~~
 
 ## 이메일 설정
 ### mailgun 사용
