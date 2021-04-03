@@ -239,7 +239,7 @@ smtp credential 에서 키 받아서 사용
 ## 4. 기타 설정
 ### account.hbs 수정
 ~~~
-# 불필요한 유료권유 제거
+# 불필요한 유료 권유 제거
 <div class="col-xs-12 col-md-4 m-b-lg{{#if @member}} col-md-offset-2{{/if}}">
   {{> pricing/monthly}}
 </div>
@@ -256,4 +256,11 @@ smtp credential 에서 키 받아서 사용
 지원 안함
 
 {{/post}}
+~~~
+### site-header.hbs 수정
+~~~
+# 불필요한 유료 권유 제거
+{{else if @member}}
+  {{#link class="upgrade-link" href="/membership/"}}{{t "Upgrade"}}{{/link}}
+{{else}}
 ~~~
