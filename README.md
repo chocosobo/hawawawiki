@@ -264,3 +264,28 @@ smtp credential 에서 키 받아서 사용
   {{#link class="upgrade-link" href="/membership/"}}{{t "Upgrade"}}{{/link}}
 {{else}}
 ~~~
+### sidebar.hbs 수정
+~~~
+# 불필요한 유료 권유 제거
+{{!-- Subscribe--}}
+{{#is "post"}}
+{{#if @member.paid}}
+{{else if @member}}
+<div class="sidebar__section p-xs bg-gradient shadow">
+<div class="sidebar__subscribe flex flex-col bg-default">
+  <h4 class="text-center text-xl text-acc-1">{{t "Premium Membership"}}</h4>
+  <div class="m-b text-acc-3">{{t "Unlock full access to see the entire library by subscribing to a paid plan."}}</div> 
+  <a href="/membership/" class="btn btn--primary btn--rounded btn--xs self-align-center">{{t "Upgrade"}}</a>
+</div>
+</div>
+{{else}}
+<div class="sidebar__section p-xs bg-gradient shadow">
+<div class="sidebar__subscribe bg-default">
+  <h4 class="text-center text-acc-1">{{@site.title}} {{t "Newsletter"}}</h4>
+  <div class="m-b text-acc-3">{{t "Get the latest insights directly to your inbox!"}}</div>
+  {{> subscribe-form}}
+</div>
+</div>
+{{/if}}
+{{/is}}
+~~~
