@@ -191,3 +191,24 @@ RSS 제외 {{!-- --}} 가두기
   </head>
 ~~~
 
+
+## 이메일 설정
+### mailgun 사용
+[참고](https://ghost.org/docs/config/)
+
+smtp credential 에서 키 받아서 사용
+
+#### SSH로 config.production.json 수정
+~~~
+# 마지막 } 위에 추가
+"mail": {
+  "transport": "SMTP",
+  "options": {
+    "service": "Mailgun",
+    "auth": {
+      "user": "postmaster@hawawa.wiki",
+      "pass": "비밀번호"
+    }
+  }
+}
+~~~
