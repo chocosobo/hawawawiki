@@ -214,7 +214,7 @@ RSS 제외 {{!-- --}} 가두기
 
 ~~~
 
-## 이메일 설정
+## 3. 이메일 설정
 ### mailgun 사용
 [참고](https://ghost.org/docs/config/)
 
@@ -233,4 +233,27 @@ smtp credential 에서 키 받아서 사용
     }
   }
 }
+~~~
+
+
+## 4. 기타 설정
+### account.hbs 수정
+~~~
+# 불필요한 유료권유 제거
+<div class="col-xs-12 col-md-4 m-b-lg{{#if @member}} col-md-offset-2{{/if}}">
+  {{> pricing/monthly}}
+</div>
+
+<div class="col-xs-12 col-md-4 m-b-lg">
+  {{> pricing/yearly}}
+</div>
+~~~
+### membership.hbs 수정
+~~~
+# 다음과 같이 수정
+{{#post}}
+
+지원 안함
+
+{{/post}}
 ~~~
