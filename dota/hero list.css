@@ -1,0 +1,15 @@
+.ht_row {
+    display: table-row;
+}
+
+.ht_cell {
+    display: table-cell;
+    width: 25%;
+    text-align: center;
+    padding: 5px 5px 5px 5px;
+}
+
+.hero_face {
+    text-align: center;
+    vertical-align: middle;
+}
