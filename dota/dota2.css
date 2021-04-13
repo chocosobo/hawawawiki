@@ -1,0 +1,88 @@
+.ht_row{
+    display: table-row;
+}
+
+.ht_cell {
+    display: table-cell;
+    width: 25%;
+    text-align: center;
+    padding: 5px 5px 5px 5px;
+}
+
+.hero_face {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.hs_box {
+    display: table;
+}
+
+.hs_icon {
+    display: table-cell;
+    width: 128px;
+    position: relative;
+}
+
+.hs_agha {
+    position: absolute;
+    left: 5%;
+    bottom: 5%;
+}
+
+.hs_name {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    font-size: x-large;
+}
+
+.hi_box {
+    display: table;
+    width: 90%;
+}
+.hi_row {
+    display: table-row;
+}
+
+.item_box {
+    display: table-cell;
+    text-align: center;
+}
+
+.uh_top, .uh_mid, .uh_bot, .uh_skill {
+    width: 100%;
+}
+
+.uh_face, .uh_name, .uhs_left, .uhs_right{
+    display: table-cell;
+}
+
+.uh_skill, .uhs_name, .uhs_change {
+    display: table-row;
+}
+
+.uh_face {
+    width: 205px;
+}
+
+.uhs_left {
+    width: 96px;
+}
+
+.uhs_right{
+    padding-left: 10px;
+}
+
+
+
+.uh_name {
+    text-align: center;
+    vertical-align: middle;
+    font-size: xx-large;
+    width: 70%;
+}
+
+.uhs_right {
+    vertical-align: top;
+}
