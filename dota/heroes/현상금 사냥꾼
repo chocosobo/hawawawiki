@@ -1,0 +1,478 @@
+---
+
+H 기초 정보
+
+https://www.dota2.com/hero/bountyhunter?l=koreana
+
+H2 호칭
+
+- BH
+- 바헌
+
+---
+
+H 스킬 활용
+
+H2 일반 스킬
+
+
+/html
+<div class="hs_box">
+    <div class="hs_icon"><img src="https://hawawawiki.cdn.ntruss.com/ability/bounty_hunter_shuriken_toss.webp"></div>
+    <div class="hs_name">수리검 투척 - Shuriken Toss</div>
+</div>
+<br>
+
+유튜브
+
+- 꽤 높은 피해를 가지고 있어 한타 때 꽤 높은 비중으로 활약할 수 있음
+- 범위 내 추적에 걸린 적에게 한번씩 튕기기에 직접 영웅에게 시전하지 않고 멀리서 가까운 크립에게 시전해도 됨
+- 수리검이 날아가는 동안 추가로 추적을 걸어 튕기게 할 수 있음
+
+
+/html
+<div class="hs_box">
+    <div class="hs_icon"><img src="https://hawawawiki.cdn.ntruss.com/ability/bounty_hunter_jinada.webp"></div>
+    <div class="hs_name">지나다 - Jinada</div>
+</div>
+<br>
+
+유튜브
+
+- 빼앗는 골드도 골드지만 꽤 높은 피해를 가지고 있고 별도의 피해가 아닌 기본 공격에 합산되기에 치명타 적중시 피해가 증가함
+
+
+/html
+<div class="hs_box">
+    <div class="hs_icon"><img src="https://hawawawiki.cdn.ntruss.com/ability/bounty_hunter_wind_walk.webp"></div>
+    <div class="hs_name">그림자 보행 - Shadow Walk</div>
+</div>
+<br>
+
+유튜브
+
+- 1 레벨만 투자해도 은신시간이 쿨다운보다 길기에 주로 나중에 찍는 편
+- 이동 둔화 지속 시간이 긴 편이라 초반에 투자하기도 함
+- 오프레인으로 플레이 할 경우 8 레벨이나 그 후에 투자하기도 함
+
+
+/html
+<div class="hs_box">
+    <div class="hs_icon"><img src="https://hawawawiki.cdn.ntruss.com/ability/bounty_hunter_track.webp"></div>
+    <div class="hs_name">추적 - Track</div>
+</div>
+<br>
+
+유튜브
+
+- 시야를 제공하면서 아군도 부유하게 만들어주기에 지원 역할로 뽑는 이유가 되는 능력
+
+
+H2 아가님의 홀
+
+/html
+<div class="hs_box">
+    <div class="hs_icon">
+        <img src="https://hawawawiki.cdn.ntruss.com/ability/bounty_hunter_shuriken_toss.webp">
+        <img class="hs_agha" src="https://hawawawiki.cdn.ntruss.com/ability/scepter_symbol.webp">
+    </div>
+    <div class="hs_name">수리검 투척 - 강화</div>
+</div>
+<br>
+
+유튜브
+
+- 10, 15 레벨 특성으로 수리검 투척과 지나다 피해를 강화하면 총 625의 마법 물리 복합 피해를 줌
+- 20 레벨 특성으로 지나다 골드 훔치기를 강화하면 추적 상태의 모든 적 영웅에게서 86 골드씩 빼앗기에 꽤 쓸만함
+
+H2 아가님의 파편
+
+/html
+<div class="hs_box">
+    <div class="hs_icon">
+        <img src="https://hawawawiki.cdn.ntruss.com/ability/bounty_hunter_wind_walk.webp">
+        <img class="hs_agha" src="https://hawawawiki.cdn.ntruss.com/ability/shard_symbol.webp">
+    </div>
+    <div class="hs_name">그림자 보행 - 강화</div>
+</div>
+<br>
+
+유튜브
+
+- 그림자 보행 기본 내용에 주문 면역 관통이 있어 착각할 수 있으나 주문 면역인 적에게는 효과를 주지 않음
+
+---
+
+H 특성
+
+/html
+<div class="h_talent">
+    <div class="ht_top">
+        특성 계도
+    </div>
+    <div class="ht_bot">
+        <div class="ht_line">
+            <div class="ht_left">
+                추적 골드 +250
+            </div>
+            <div class="ht_lv">
+                25
+            </div>
+            <div class="ht_right">
+                회피 40%
+            </div>
+        </div>
+        <div class="ht_line">
+            <div class="ht_left">
+                지나다 골드 훔치기 +50
+            </div>
+            <div class="ht_lv">
+                20
+            </div>
+            <div class="ht_right">
+                공격 속도 +50
+            </div>
+        </div>
+        <div class="ht_line">
+            <div class="ht_left">
+                체력 +275
+            </div>
+            <div class="ht_lv">
+                15
+            </div>
+            <div class="ht_right">
+                수리검 투척 피해 +50
+            </div>
+        </div>
+        <div class="ht_line">
+            <div class="ht_left">
+                지나다 피해 +40
+            </div>
+            <div class="ht_lv">
+                10
+            </div>
+            <div class="ht_right">
+                이동 속도 +20
+            </div>
+        </div>
+    </div>
+</div>
+
+- 10 레벨
+    - 아가님을 가려는 경우 지나다 피해가 좋지만 이동 속도가 필요한 경우 이동 속도를 찍음
+- 15 레벨
+    - 매우 높은 비율이 수리검 투척 피해를 찍음
+- 20 레벨
+    - 공격 속도 증가의 경우엔 산화와 야차, 심판도 등을 간 캐리 빌드일 때만 가능
+- 25 레벨
+    - 회피가 선택 빈도가 더 높고 추적 골드 추가는 승률이 조금 더 높지만 후반의 현상금 사냥꾼은 캐리와 서포터가 동시에 가능한 영웅으로 승률이 매우 높아 필요에 따라 찍음
+
+H2 스킬 트리, 특성 통계
+
+https://ko.dotabuff.com/heroes/bounty-hunter/builds
+
+---
+
+H 아이템
+
+H2 시작
+
+/html
+<div class="hi_box">
+    <div class="hi_row">
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/tango.webp">
+            <br>
+            목담과
+        </div>
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/boots.webp">
+            <br>
+            속력의 장화
+        </div>
+    </div>
+</div>
+<br>
+
+- 지원 역할로 플레이하거나 레인전 단계에서 이동 속도가 초반 처치나 죽음에 크게 작용할 경우의 시작 아이템
+
+/html
+<div class="hi_box">
+    <div class="hi_row">
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/quelling_blade.webp">
+            <br>
+            벌목 도끼
+        </div>
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/circlet.webp">
+            <br>
+            머리 장식
+        </div>
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/ring_of_protection.webp">
+            <br>
+            수호의 반지
+        </div>
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/branches.webp">
+            <br>
+            쇳가지
+        </div>
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/tango.webp">
+            <br>
+            목담과
+        </div>
+    </div>
+</div>
+<br>
+
+- 주로 오프레인으로 플레이할 때의 시작아이템으로 경우에 따라 머리 장식과 수호의 반지를 바람결로 대체
+- 기본적으로 높은 스탯을 가진 현상금 사냥꾼을 레인전 단계에서 치고박고하는데 도움이 되는 빌드
+- 필요에 따라 머리 장식을 전투 팔찌, 망령의 고리로 업그레이드 하거나 혼의 항아리로 업그레이드
+
+H2 초반 아이템
+
+/html
+<div class="hi_box">
+    <div class="hi_row">
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/arcane_boots.webp">
+            <br>
+            신비의 장화
+        </div>
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/medallion_of_courage.webp">
+            <br>
+            용기의 메달
+        </div>
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/ogre_axe.webp">
+            <br>
+            오거 도끼
+        </div>
+    </div>
+</div>
+<br>
+
+- 신비의 장화는 상대가 가면무사거나 이동 속도가 더 필요할 때엔 위상변화 장화로 대체
+- 7.29~ 버전에서 태양의 문장이 매우 높은 빈도로 사용되며 적절한 마나 재생과 방어력을 제공해주기에 빠르게 메달을 올림
+- 오거 도끼는 상황에 따라 아가님의 홀이나 천상의 미늘창 재료로 활용하나 전체 팀이 싸울 수 있는 상황이라면 메달에서 바로 태양의 문장으로 넘어가기도 함
+
+H2 중반 아이템
+
+/html
+<div class="hi_box">
+    <div class="hi_row">
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/ultimate_scepter.webp">
+            <br>
+            아가님의 홀
+        </div>
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/solar_crest.webp">
+            <br>
+            태양의 문장
+        </div>
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/aether_lens.webp">
+            <br>
+            창공의 렌즈
+        </div>
+    </div>
+</div>
+<br>
+
+- 아가님의 홀은 현상금 사냥꾼의 피해를 극적으로 늘려줌
+- 지원 역할로 플레이할 경우 태양의 문장을 가로 구입하는게 정석
+- 창공의 렌즈는 추적 및 수리검 투척 사거리 증가로 현상금 사냥꾼이 더 안전하게 활약할 수 있게 도우나 현상금 사냥꾼 대신 적진에 들어갈 영웅이 없다면 칠흑왕의 지팡이 등을 구입
+
+H2 후반 아이템
+
+/html
+<div class="hi_box">
+    <div class="hi_row">
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/lotus_orb.webp">
+            <br>
+            연꽃 구슬
+        </div>
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/octarine_core.webp">
+            <br>
+            팔색구
+        </div>
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/assault.webp">
+            <br>
+            돌격 흉갑
+        </div>
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/pipe.webp">
+            <br>
+            통찰의 파이프
+        </div>
+    </div>
+</div>
+<br>
+
+- 캐리로 플레이하는게 아니라면 아군에게 도움이 되는 아이템 위주로 구입하게 됨
+- 위 아이템은 대부분 상황을 보고 순서를 선택해야함
+
+H2 상황별 아이템
+
+/html
+<div class="hi_box">
+    <div class="hi_row">
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/sange_and_yasha.webp">
+            <br>
+            산화와 야차
+        </div>
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/force_staff.webp">
+            <br>
+            염동력 지팡이
+        </div>
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/orchid.webp">
+            <br>
+            증오의 꽃가지
+        </div>
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/heavens_halberd.webp">
+            <br>
+            천상의 미늘창
+        </div>
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/abyssal_blade.webp">
+            <br>
+            심연의 검
+        </div>
+    </div>
+</div>
+<br>
+
+- 산화와 야차는 심판도와 함께 캐리 빌드 필수 아이템이며 경우에 따라 만타 도끼로 변경
+- 염동력 지팡이는 얼음 폭군이나 기타 상황에서 아군이나 자신을 빼내는데 구입
+- 증오의 꽃가지는 다른 지원 영웅에 비해 부유한 현상금 사냥꾼이 퍽이나 폭풍령 등을 잡기위해 구입하기도 함
+- 상대 캐리가 잘 컸을 경우 천상의 미늘창을 섞어넣음
+- 아군에 기절이 부족하다면 심연의 검을 구입
+- 목록에 없더라도 아군이나 적군에 따라 지구력의 북, 블라드미르의 공물 등 다양한 아이템을 구입
+
+---
+
+H 역할
+
+H2 포지션
+
+권장 - 지원
+
+가능 - 안전 전선, 오프레인
+
+안전 전선이나 오프레인으로 플레이하려면 아군과의 시너지가 중요하기에 어느정도 의견을 조율할 필요가 있음
+
+H2 레인전
+
+현상금 사냥꾼은 높은 기본 방어력과 순간 피해로 무장해있어 스킬 쿨다운에 맞춰 상대와 교전해 괴롭히는 것이 유효함
+
+지나다로 빼앗는 골드도 신경 쓰이며 피해도 높기에 날이 빛날 때 적을 향해 다가가면 뒤로 물러나게 할 수 있음
+
+H2 한타
+
+중반까지의 한타는 직접적으로 들어가서 피해를 입히기 보다는 계속해서 추적을 걸어주며 수리검으로 피해를 입히는데 주력하는 것이 좋음
+
+몸이 약한 영웅을 노려 공격하는 것이 중요
+
+H2 푸시
+
+현상금 사냥꾼은 공성에 특별히 유용한 스킬이 없으나 상대가 스킬이나 기본 공격으로 크립을 지워낼 때마다 추적을 걸어 시야를 확보해주는 역할을 수행해야함
+
+---
+
+H 시너지와 카운터
+
+H2 레인 시너지
+
+/img https://hawawawiki.cdn.ntruss.com/hero/shadow_shaman_lg.webp
+그림자 주술사
+
+- 레인 단계에서 매우 높은 피해를 가지고 있어 초반 킬 포텐셜이 좋고 현상금 사냥꾼에겐 모자란 기절, 공성 능력에 특화되어 있어 상성이 매우 좋음
+
+
+/img https://hawawawiki.cdn.ntruss.com/hero/earth_spirit_lg.webp
+대지령
+
+- 현상금 사냥꾼 대신 적진에 들어가 휘저어줄 능력이 있으며 기절 , 이동 둔화, 침묵의 다양한 상태 이상 효과를 보충해줌
+
+
+/img https://hawawawiki.cdn.ntruss.com/hero/grimstroke_lg.webp
+그림스트로크
+
+- 이동 속도 증가와 기절, 영혼 결속을 통한 현상금 사냥꾼 수리검 투척 피해 증폭에 매우 좋음
+
+
+/img https://hawawawiki.cdn.ntruss.com/hero/warlock_lg.webp
+흑마법사
+
+- 지속 회복 효과와 이동 둔화, 피해 연동 등 다양한 효과에 직접적으로 영향을 받아 좋은 시너지를 냄
+
+H2 카운터
+
+
+/img https://hawawawiki.cdn.ntruss.com/hero/naga_siren_lg.webp
+나가 세이렌
+
+- 환영 복제로 추적을 해제하거나 그물 던지기로 현시의 가루 없이도 지속 시간 동안 현상금 사냥꾼을 볼 수 있으며 후반에 매우 높은 체력, 방어력을 가지게 되어 현상금 사냥꾼을 신경쓰지 않아도 됨
+
+
+/img https://hawawawiki.cdn.ntruss.com/hero/phantom_lancer_lg.webp
+환영 창기사
+
+- 이중 자아로 추적을 해제할 수 있으며 분산의 검으로 현상금 사냥꾼의 마나를 모두 불태우면 그저 튼튼한 샌드백이 됨
+
+
+/img https://hawawawiki.cdn.ntruss.com/hero/slardar_lg.webp
+슬라다
+
+- 부식의 연무로 현상금 사냥꾼의 은신이 소용없게 만들며 높은 방어력을 깎아내며 갖은 기절 효과로 종횡무진 활약함
+
+
+
+H2 상대하기 좋은 적
+
+/img https://hawawawiki.cdn.ntruss.com/hero/clinkz_lg.webp
+클링츠
+
+- 해골 보행을 무력화하면서 죽음의 서약 효과를 받지 않을 때의 클링츠는 매우 약한 몸을 가지고 있어 쉽게 처치할 수 있음
+
+/img https://hawawawiki.cdn.ntruss.com/hero/riki_lg.webp
+리키
+
+- 마찬가지로 은신을 무력화해 쉽게 따라갈 수 있음
+
+/img https://hawawawiki.cdn.ntruss.com/hero/crystal_maiden_lg.webp
+수정의 여인으로 대표되는 몸 약하고 느린 영웅
+
+- 현상금 사냥꾼의 매우 높은 순간 피해와 이동기는 없지만 추적 효과를 통한 이동 속도 증가로 적절한 상성이나 아이템이 없다면 매우 쉽게 처치할 수 있음
+
+
+---
+
+H 공략
+
+링크로
+
+---
+
+H 편집
+
+H2 주관
+- 초코소보
+
+H2 참여
+- 없음
+
+H2 서술 기준 버전
+- 7.29c

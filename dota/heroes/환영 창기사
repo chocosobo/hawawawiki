@@ -1,0 +1,476 @@
+---
+
+H 기초 정보
+
+https://www.dota2.com/hero/phantomlancer?l=koreana
+
+H2 호칭
+
+- PL
+- Lancer
+- 팬랜
+- 환창
+
+---
+
+H 스킬 활용
+
+H2 일반 스킬
+
+
+/html
+<div class="hs_box">
+    <div class="hs_icon"><img src="https://hawawawiki.cdn.ntruss.com/ability/phantom_lancer_spirit_lance.webp"></div>
+    <div class="hs_name">영혼의 창 - Spirit Lance</div>
+</div>
+<br>
+
+유튜브
+
+- 레인전 단계에서 원거리 크립을 챙기기 위해 사용
+- 적을 느리게 해 아군 스킬과 연계
+- 높은 피해량으로 견제
+
+
+/html
+<div class="hs_box">
+    <div class="hs_icon"><img src="https://hawawawiki.cdn.ntruss.com/ability/phantom_lancer_doppelwalk.webp"></div>
+    <div class="hs_name">이중자아 - Doppelganger</div>
+</div>
+<br>
+
+유튜브
+
+- 벽을 넘거나 나무를 넘어 도주용
+- 순간적으로 분신을 생성해 본체를 속이기 위해 사용
+    - 생성되는 환영 2 체 중 1 체는 피해를 입히지 않는 대신 100%의 피해만 입기에   이를 활용해 본체 대신 분신을 도주시켜 속이기도 함
+- 해제 효과를 얻거나 투사체 회피
+- 안전한 곳에서 와드 파괴 용도로 사용
+
+
+/html
+<div class="hs_box">
+    <div class="hs_icon"><img src="https://hawawawiki.cdn.ntruss.com/ability/phantom_lancer_phantom_edge.webp"></div>
+    <div class="hs_name">환영 돌격 - Phantom Rush</div>
+</div>
+<br>
+
+유튜브
+
+- 스킬을 눌러 비활성화 해 사용하지 않고 크립 어그로를 끌 수 있음
+- 전투 중 멀리 있는 적이나 정글 크립에게 달려서 도주용으로도 사용 가능
+
+
+/html
+<div class="hs_box">
+    <div class="hs_icon"><img src="https://hawawawiki.cdn.ntruss.com/ability/phantom_lancer_juxtapose.webp"></div>
+    <div class="hs_name">병치술 - Juxtapose</div>
+</div>
+<br>
+
+유튜브
+
+- 분산의 검과 같은 아이템으로 적 마나를 불태우는데 특화
+- 기본 공격력이 높아 후반 많은 피해를 줄 수 있음
+
+
+H2 아가님의 홀
+
+/html
+<div class="hs_box">
+    <div class="hs_icon">
+        <img src="https://hawawawiki.cdn.ntruss.com/ability/phantom_lancer_juxtapose.webp">
+        <img class="hs_agha" src="https://hawawawiki.cdn.ntruss.com/ability/scepter_symbol.webp">
+    </div>
+    <div class="hs_name">병치술 - 강화</div>
+</div>
+<br>
+
+- 병치술 피해 극대화
+
+H2 아가님의 파편
+
+/html
+<div class="hs_box">
+    <div class="hs_icon">
+        <img src="https://hawawawiki.cdn.ntruss.com/ability/phantom_lancer_spirit_lance.webp">
+        <img class="hs_agha" src="https://hawawawiki.cdn.ntruss.com/ability/shard_symbol.webp">
+    </div>
+    <div class="hs_name">영혼의 창 - 강화</div>
+</div>
+<br>
+
+- 7.29 버전 최강 능력
+- 높은 피해 비율로 건물을 철거하거나 적 지원 영웅을 괴롭히는데 유용
+
+---
+
+H 특성
+
+/html
+<div class="h_talent">
+    <div class="ht_top">
+        특성 계도
+    </div>
+    <div class="ht_bot">
+        <div class="ht_line">
+            <div class="ht_left">
+                치명타(200%) +24%
+            </div>
+            <div class="ht_lv">
+                25
+            </div>
+            <div class="ht_right">
+                이중자아 쿨다운 -4초
+            </div>
+        </div>
+        <div class="ht_line">
+            <div class="ht_left">
+                병치술 피해 +5%
+            </div>
+            <div class="ht_lv">
+                20
+            </div>
+            <div class="ht_right">
+                환영 돌격 범위 +300
+            </div>
+        </div>
+        <div class="ht_line">
+            <div class="ht_left">
+                영혼의 창 쿨다운 -3초
+            </div>
+            <div class="ht_lv">
+                15
+            </div>
+            <div class="ht_right">
+                체력 +200
+            </div>
+        </div>
+        <div class="ht_line">
+            <div class="ht_left">
+                공격 속도 +15
+            </div>
+            <div class="ht_lv">
+                10
+            </div>
+            <div class="ht_right">
+                회피 16%
+            </div>
+        </div>
+    </div>
+</div>
+
+- 10 레벨
+    - 상대 대부분의 피해가 기본 공격 기반이라면 회피, 그 외에는 공격 속도
+- 15 레벨
+    - 7.29 현재 아가님의 파편 효율을 위해 영혼의 창 쿨다운 -3초를 감
+    - 체력이 절실한 경우 체력
+- 20 레벨
+    - 더 멀리 달려서 후열의 영웅을 물어야한다면 돌격 범위
+    - 그렇지 않다면 더 많은 피해를 주는 병치술 피해 +5%
+- 25 레벨
+    - 해제해야할 상태 이상이 많거나 상대가 분신 제거 능력이 탁월하지 않은 경우 이중자아 쿨다운 -4초
+    - 피해를 높이고 싶다면 치명타(200%) +24%
+
+H2 스킬 트리, 특성 통계
+
+https://ko.dotabuff.com/heroes/phantom-lancer/builds
+
+---
+
+H 아이템
+
+H2 시작
+
+/html
+<div class="hi_box">
+    <div class="hi_row">
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/tango.webp">
+            <br>
+            목담과
+        </div>
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/quelling_blade.webp">
+            <br>
+            벌목 도끼
+        </div>
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/circlet.webp">
+            <br>
+            머리 장식
+        </div>
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/slippers.webp">
+            <br>
+            민첩의 신발
+        </div>
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/branches.webp">
+            <br>
+            쇳가지
+        </div>
+    </div>
+</div>
+<br>
+
+- 막타를 잘 먹을 수 있도록 벌목 도끼와 민첩 스탯으로 일반 공격 피해를 최대한 높임
+- 상대 영웅에 따라 풍요 룬 보상, 혹은 시작 즉시 마법 막대를 지참하거나 추가로 목담과 배달
+
+H2 초반 아이템
+
+/html
+<div class="hi_box">
+    <div class="hi_row">
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/power_treads.webp">
+            <br>
+            능력의 장화
+        </div>
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/wraith_band.webp">
+            <br>
+            망령의 고리
+        </div>
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/magic_wand.webp">
+            <br>
+            마법 지팡이
+        </div>
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/blade_of_alacrity.webp">
+            <br>
+            민첩의 날
+        </div>
+
+    </div>
+</div>
+<br>
+
+- 마법 지팡이는 필요한 경우에만
+- 신발은 무척 흥해서 미다스 6분에 띄우고 적도 거리낄게 없어서 아무 곳이나 밀고 다닐 예정이라면 여행의 장화도 가능
+
+H2 중반 아이템
+
+/html
+<div class="hi_box">
+    <div class="hi_row">
+
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/diffusal_blade.webp">
+            <br>
+            분산의 검
+        </div>
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/yasha.webp">
+            <br>
+            야차
+        </div>
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/aghanims_shard.webp">
+            <br>
+            아가님의 파편
+        </div>
+
+    </div>
+</div>
+<br>
+
+- 지금 바로 간간히 한타에 참여할 여건이 된다면 분산의 검이 좋지만 가격 대비 파밍 속도는 야차가 좋기에 민첩의 날 이후로 상황을 보야 먼저 구입하기도 함
+- 아가님의 파편은 파밍 속도와 철거 속도를 엄청나게 늘려주나 그만큼 마나 소모가 많아 한타를 하게 될 때 쯤 구입
+
+H2 후반 아이템
+
+/html
+<div class="hi_box">
+    <div class="hi_row">
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/manta.webp">
+            <br>
+            만타 도끼
+        </div>
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/heart.webp">
+            <br>
+            타라스크의 심장
+        </div>
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/skadi.webp">
+            <br>
+            스카디의 눈
+        </div>
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/abyssal_blade.webp">
+            <br>
+            심연의 검
+        </div>
+    </div>
+</div>
+<br>
+
+- 만타 도끼는 환영 창기사에게 있어 중요한 힘 스탯과 침묵 등으로 인한 이중자아 시전 불가 상태에서 해제 효과를 얻을 수 있어 가장 자주 가는 아이템
+- 타라스크의 심장은 최대 체력과 재생을 비약적으로 증가시키기에 분신이 쉽게 쓸려나가지 않도록 도와줌
+- 상대에 높은 체력 재생을 가진 영웅이 있는 경우, 타라스크의 심장이 꼭 필요하지 않다면 모든 스탯과 적절한 체력을 제공하는 스카디의 눈으로 대체하기도 함
+- 심연의 검은 상대의 칠흑왕의 지팡이 마법 면역을 뚫고 기절시킬 수 있는 수단으로 환영 창기사에게 적절한 아이템
+
+H2 상황별 아이템
+
+/html
+<div class="hi_box">
+    <div class="hi_row">
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/hood_of_defiance.webp">
+            <br>
+            도전의 두건
+        </div>
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/sange_and_yasha.webp">
+            <br>
+            산화와 야차
+        </div>
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/bloodthorn.webp">
+            <br>
+            핏빛 가시
+        </div>
+    </div>
+    <div class="hi_row">
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/butterfly.webp">
+            <br>
+            나비검
+        </div>
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/swift_blink.webp">
+            <br>
+            신속 점멸
+        </div>
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/octarine_core.webp">
+            <br>
+            팔색구
+        </div>
+    </div>
+</div>
+<br>
+
+- 상대의 주력 피해 유형이 마법이라면 도전의 두건 하나만으로도 유효 체력을 큰 폭으로 늘릴 수 있음
+또한 제공하는 체력 재생 덕에 파밍 중 별도의 체력 관리가 필요하지 않음
+- 상대에게 특별히 신경 써야할 상태 이상 효과가 없다면 만타 대신 산화와 야차를 가서 자잘한 효과는 무시하기도 함
+- 애매하게 모자란 피해를 핏빛 가시를 사용해 순간적으로 적을 처치하는 용도로 구입 가능
+환영의 피해 또한 증폭되기에 굉장히 좋은 아이템
+- 나비검은 약간의 회피능력과 높은 민첩 영웅 공격력 증가를 가지고 있어 애용되는 아이템
+- 점멸 단검은 적 영웅 중 극단적으로 사거리가 긴 영웅(대표적으로 제우스)이 있을 경우 순간적으로 접근하기 위해 사용
+이 경우 나비검 대신 신속 점멸로 업그레이드 해 사용
+- 현재 7.29 아가님의 파편이 매우 강력해 이 효과를 극대화하기 위해 팔색구 사용 가능
+시전 범위와 쿨다운, 체력과 마나, 마나 재생을 제공해 주기에 상황이 좋다면 타라스크의 심장 대용품으로도 사용 가능
+
+---
+
+H 역할
+
+H2 포지션
+
+권장 - 안전 전선
+
+가능 - 중부 전선
+
+환영 창기사는 아이템 의존도가 굉장히 높기 때문에 꽤 긴 시간 동안 파밍이 필요함
+
+H2 레인전
+
+환영 창기사는 보기보다 높은 기본 공격력과 영혼의 창 피해량을 가지고 있어서 자키로나 수정의 여인과 같은 영웅과 함께라면 초반부터 쉽게 킬을 노릴 수 있음
+
+레인전 상성이 쉽지 않다면 영혼의 창 보다는 환영 돌격에 먼저 투자하거나 이중자아를 2레벨 투자해 어느정도까지 버티다 정글로 들어가 파밍해야함
+
+H2 한타
+
+성장이 비등한 상태에서 타라스크의 심장까지 나온 환영 창기사라면 매우 높은 생존력을 가지고 있고 몸이 약한 지원 역할에게 매우 높은 피해를 줄 수 있음
+
+또한 환영 돌격 범위 증가 특성을 찍으면 꽤 깊은 곳에 숨은 적에게도 달려갈 수 있으니 환영 창기사의 현재 상태를 보고 가장 우선해서 노릴 적을 골라야함
+
+H2 푸시
+
+이중자아나 만타 도끼 환영을 사용해 적의 스킬을 빼고 올라가거나 아가님의 파편을 구입한 후 영혼의 창 환영으로 쉽게 밀 수 있음
+
+https://www.youtube.com/watch?v=4by0x5EcX7o
+
+---
+
+H 시너지와 카운터
+
+H2 레인 시너지
+
+/img https://hawawawiki.cdn.ntruss.com/hero/crystal_maiden_lg.webp
+수정의 여인
+
+- 수정의 여인의 모든 능력이 환영 창기사와 높은 시너지를 보임
+- 마나 재생 오라로 영혼의 창 마나 소모에 덜 저항감이 생기며 다른 두 능력도 초반 높은 견제 능력과 피해를 가지고 있어서 유리
+
+/img https://hawawawiki.cdn.ntruss.com/hero/abaddon_lg.webp
+아바돈
+
+- 강한 해제 효과를 가지고 있어서 환영 창기사의 유지력에 매우 큰 도움이 됨
+
+
+H2 카운터
+
+/img https://hawawawiki.cdn.ntruss.com/hero/earthshaker_lg.webp
+지진술사
+
+- 가장 대표적인 카운터로 지진술사가 6 레벨만 찍어도 환영 창기사를 지진파 공명 한 방에 보내버릴 수 있을 정도로 분신 영웅의 대표적인 카운터
+
+/img https://hawawawiki.cdn.ntruss.com/hero/axe_lg.webp
+도끼전사
+
+- 지진술사와 마찬가지로 계속 생성되는 환영 창기사의 환영만큼 반격의 나선 발동이 많아져 순식간에 많은 피해를 입힘
+
+/img https://hawawawiki.cdn.ntruss.com/hero/ember_spirit_lg.webp
+불꽃령
+
+- 마법 빌드인 신령한 족쇄의 경우 큰 문제가 안되지만 혼돈의 망치 이후 전장격노, 다이달로스 + 신의 양날검의 물리 빌드라면 환영을 채 모으지도 못하고 일방적으로 정리당함
+- 비슷한 속도로 성장할 경우 중반 이후 상대할만 하다가 극후반에 다시 힘들어짐
+
+/img https://hawawawiki.cdn.ntruss.com/hero/enigma_lg.webp
+에니그마
+
+- 에니그마의 밤의 파동과 블랙홀은 최대 체력 비례 피해면서 동시에 범위 피해이기에 환영 창기사의 아이템 상황과 관계없이 큰 피해를 줌
+
+
+/img https://hawawawiki.cdn.ntruss.com/hero/leshrac_lg.webp
+레슈락
+
+- 애니그마와 마찬가지로 범위에 피해를 입히기에 환영과 본체를 구분할 필요가 없음
+
+
+H2 상대하기 좋은 적
+
+/img https://hawawawiki.cdn.ntruss.com/hero/juggernaut_lg.webp
+가면무사
+
+- 가면무사는 꾸준히 피해를 주다 연속 베기로 한번에 피해를 주는 타입의 영웅인데 환영 창기사의 이중자아로 이를 중간에 회피할 수 있음
+- 성장 차이가 크게 나지 않는다면 마나가 다 떨어진 가면무사는 크게 두려워할 필요가 없음
+
+/img https://hawawawiki.cdn.ntruss.com/hero/morphling_lg.webp
+모플링
+
+- 모플링은 중간 정도의 지속적인 전투나 순간적인 피해에 특화된 영웅인데 혼령의 검 + 다면 공격을 쉽게 회피할 수 있고 마나 의존도가 굉장히 높은 영웅이기에 분산의 검의 효율이 굉장히 높음
+
+---
+
+H 공략
+
+링크로
+
+---
+
+H 편집
+
+H2 주관
+- 초코소보
+
+H2 참여
+- 없음
+
+H2 서술 기준 버전
+- 7.29c

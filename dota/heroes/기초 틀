@@ -1,0 +1,321 @@
+---
+
+H 기초 정보
+
+https://www.dota2.com/hero/영웅이름?l=koreana
+
+H2 호칭
+
+- 
+
+---
+
+H 스킬 활용
+
+H2 일반 스킬
+
+
+/html
+<div class="hs_box">
+    <div class="hs_icon"><img src="https://hawawawiki.cdn.ntruss.com/ability/example.webp"></div>
+    <div class="hs_name">스킬 - skill</div>
+</div>
+<br>
+
+유튜브
+
+- 
+
+
+/html
+<div class="hs_box">
+    <div class="hs_icon"><img src="https://hawawawiki.cdn.ntruss.com/ability/example.webp"></div>
+    <div class="hs_name">스킬 - skill</div>
+</div>
+<br>
+
+유튜브
+
+- 
+
+
+/html
+<div class="hs_box">
+    <div class="hs_icon"><img src="https://hawawawiki.cdn.ntruss.com/ability/example.webp"></div>
+    <div class="hs_name">스킬 - skill</div>
+</div>
+<br>
+
+유튜브
+
+- 
+
+
+/html
+<div class="hs_box">
+    <div class="hs_icon"><img src="https://hawawawiki.cdn.ntruss.com/ability/example.webp"></div>
+    <div class="hs_name">스킬 - skill</div>
+</div>
+<br>
+
+유튜브
+
+- 
+
+
+H2 아가님의 홀
+
+/html
+<div class="hs_box">
+    <div class="hs_icon">
+        <img src="https://hawawawiki.cdn.ntruss.com/ability/example.webp">
+        <img class="hs_agha" src="https://hawawawiki.cdn.ntruss.com/ability/scepter_symbol.webp">
+    </div>
+    <div class="hs_name">스킬 - 강화신규</div>
+</div>
+<br>
+
+유튜브
+
+- 
+
+H2 아가님의 파편
+
+/html
+<div class="hs_box">
+    <div class="hs_icon">
+        <img src="https://hawawawiki.cdn.ntruss.com/ability/example.webp">
+        <img class="hs_agha" src="https://hawawawiki.cdn.ntruss.com/ability/shard_symbol.webp">
+    </div>
+    <div class="hs_name">스킬 - 강화신규</div>
+</div>
+<br>
+
+유튜브
+
+- 
+
+---
+
+H 특성
+
+/html
+<div class="h_talent">
+    <div class="ht_top">
+        특성 계도
+    </div>
+    <div class="ht_bot">
+        <div class="ht_line">
+            <div class="ht_left">
+                좌
+            </div>
+            <div class="ht_lv">
+                25
+            </div>
+            <div class="ht_right">
+                우
+            </div>
+        </div>
+        <div class="ht_line">
+            <div class="ht_left">
+                좌
+            </div>
+            <div class="ht_lv">
+                20
+            </div>
+            <div class="ht_right">
+                우
+            </div>
+        </div>
+        <div class="ht_line">
+            <div class="ht_left">
+                좌
+            </div>
+            <div class="ht_lv">
+                15
+            </div>
+            <div class="ht_right">
+                우
+            </div>
+        </div>
+        <div class="ht_line">
+            <div class="ht_left">
+                좌
+            </div>
+            <div class="ht_lv">
+                10
+            </div>
+            <div class="ht_right">
+                우
+            </div>
+        </div>
+    </div>
+</div>
+
+- 10 레벨
+    - 
+- 15 레벨
+    - 
+- 20 레벨
+    - 
+- 25 레벨
+    - 
+
+H2 스킬 트리, 특성 통계
+
+https://ko.dotabuff.com/heroes/영웅/builds
+
+---
+
+H 아이템
+
+H2 시작
+
+/html
+<div class="hi_box">
+    <div class="hi_row">
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/tango.webp">
+            <br>
+            목담과
+        </div>
+    </div>
+</div>
+<br>
+
+- 
+
+H2 초반 아이템
+
+/html
+<div class="hi_box">
+    <div class="hi_row">
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/tango.webp">
+            <br>
+            목담과
+        </div>
+    </div>
+</div>
+<br>
+
+- 
+
+H2 중반 아이템
+
+/html
+<div class="hi_box">
+    <div class="hi_row">
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/tango.webp">
+            <br>
+            목담과
+        </div>
+    </div>
+</div>
+<br>
+
+- 
+
+H2 후반 아이템
+
+/html
+<div class="hi_box">
+    <div class="hi_row">
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/tango.webp">
+            <br>
+            목담과
+        </div>
+    </div>
+</div>
+<br>
+
+- 
+
+H2 상황별 아이템
+
+/html
+<div class="hi_box">
+    <div class="hi_row">
+        <div class="item_box">
+            <img class="hi_icon" src="https://hawawawiki.cdn.ntruss.com/item/tango.webp">
+            <br>
+            목담과
+        </div>
+    </div>
+</div>
+<br>
+
+- 
+
+---
+
+H 역할
+
+H2 포지션
+
+권장 - 전선
+
+가능 - 전선
+
+해설
+
+H2 레인전
+
+해설
+
+H2 한타
+
+해설
+
+H2 푸시
+
+해설
+
+---
+
+H 시너지와 카운터
+
+H2 레인 시너지
+
+/img https://hawawawiki.cdn.ntruss.com/hero/영웅_lg.webp
+이름
+
+- 
+
+
+H2 카운터
+
+/img https://hawawawiki.cdn.ntruss.com/hero/영웅_lg.webp
+이름
+
+- 
+
+
+H2 상대하기 좋은 적
+
+/img https://hawawawiki.cdn.ntruss.com/hero/영웅_lg.webp
+이름
+
+- 
+
+
+---
+
+H 공략
+
+링크로
+
+---
+
+H 편집
+
+H2 주관
+- 
+
+H2 참여
+- 없음
+
+H2 서술 기준 버전
+- 7.29c

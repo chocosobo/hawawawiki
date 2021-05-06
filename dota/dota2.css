@@ -86,3 +86,34 @@
 .uhs_right {
     vertical-align: top;
 }
+
+.h_talent {
+	text-align: center;
+	vertical-align: middle;
+    display: table;
+}
+.ht_top {
+    font-size: large;
+    font-weight: bold;
+    display: table-row;
+}
+
+.ht_bot {
+    display: table;
+    width: 100%;
+}
+.ht_line {
+    display: table-row;
+}
+
+.ht_desc {
+    display: table-cell;
+    width: 45%;
+}
+
+.ht_lv {
+    text-shadow: 1px 1px 6px #ae5a1e, 1px -1px 6px #ae5a1e, -1px 1px 6px #ae5a1e, -1px -1px 6px #ae5a1e;
+    color: #e8d290;
+    width: 10%;
+    display: table-cell;
+}
