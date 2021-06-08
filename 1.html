@@ -1,0 +1,27 @@
+<head>
+
+</head>
+
+<body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/dashjs/3.2.2/dash.all.min.js"></script>
+<script src="./ovenplayer.js"></script>
+
+<div id="player"></div>
+
+<script>
+let player = OvenPlayer.create("player", {
+    sources: [
+    {
+      "type": "dash",
+      "file": "http://139.162.90.29:80/live_event/hawawa_live/manifest.mpd",
+      "label": "origin"
+    }
+  ]
+});
+</script>
+
+<!--
+
+-->
+
+</body>
