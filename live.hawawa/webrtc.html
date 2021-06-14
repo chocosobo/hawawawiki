@@ -1,0 +1,28 @@
+<head>
+
+</head>
+
+<body>
+
+<script src="./ovenplayer.js"></script>
+
+<div id="hawawalive"></div>
+
+<script>
+  
+let webrtcSources = OvenPlayer.generateWebrtcUrls([
+  {
+        host : 'ws://live.hawawa.wiki:3333',
+        application : 'event',
+        stream : "hawawa",
+        label : "WebRTC 1080P"
+  }
+]);
+
+let player = OvenPlayer.create("hawawalive", {
+  sources: webrtcSources
+});
+
+</script>
+
+</body>

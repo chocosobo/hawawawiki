@@ -3,21 +3,24 @@
 </head>
 
 <body>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/dashjs/3.2.2/dash.all.min.js"></script>
 <script src="./ovenplayer.js"></script>
 
-<div id="player"></div>
+<div id="hawawalive"></div>
 
 <script>
-let player = OvenPlayer.create("player", {
+  
+  let player = OvenPlayer.create("hawawalive", {
     sources: [
     {
       "type": "dash",
-      "file": "http://139.162.90.29:80/live_event/hawawa_live/manifest.mpd",
-      "label": "origin"
+      "file": "https://live.hawawa.wiki:443/event/hawawa/manifest.mpd",
+      "label": "dash pass"
     }
   ]
 });
+
 </script>
 
 <!--
