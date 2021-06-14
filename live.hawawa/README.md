@@ -58,6 +58,7 @@ ufw allow 10010
 
 # dash,hls -out
 ufw allow 80
+ufw allow 443
 ~~~
 
 ### 3. OME 준비
