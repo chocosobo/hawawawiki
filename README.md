@@ -116,7 +116,7 @@ hawawawiki@gmail.com
 
 ### integration에서 키 하나 생성
 
-### partials 폴더 안 theme-config.hbs 수정
+### partials/theme-config.hbs 수정
 ~~~
 # GHOST_URL:
 https://이름.hawawa.wiki
@@ -134,7 +134,7 @@ dark
 https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&display=swap
 ~~~
 
-### _settings.css 수정
+### assets/css/settings/_settings.css 수정
 ~~~
 # --font-sans: 'Jost', Tahoma, Arial, sans-serif; 를 다음으로 교체
 --font-sans: 'Nanum Gothic', Arial, Tahoma, sans-serif;
@@ -168,7 +168,9 @@ https://formspree.io/f/예시
 ko.json
 
 ### Social 링크
-RSS 제외 {{!-- --}} 가두기
+RSS, github 외 제거
+https://github.com/chocosobo/hawawawiki
+
 
 ### 구글 애널리스트
 [참고](https://bironthemes.com/blog/ghost-analytics/)
@@ -191,8 +193,8 @@ RSS 제외 {{!-- --}} 가두기
   </head>
 ~~~
 
-### footer 변경
-site-footer.hbs
+### site-footer.hbs 변경
+
 ~~~
 # 불필요한 멤버권유 제거
 {{!-- Footer subscription --}}
@@ -256,23 +258,28 @@ smtp credential 에서 키 받아서 사용
       </div>
     </div>
 ~~~
-### membership.hbs 수정
+### page-membership.hbs 수정
 ~~~
 # 다음과 같이 수정
 {{#post}}
 
-지원 안함
+지원 안 함
 
 {{/post}}
 ~~~
-### site-header.hbs 수정
+### partials/site-header.hbs 수정
 ~~~
 # 불필요한 유료 권유 제거
+{{!-- Sign up Button --}}
+{{#if @member.paid}}
 {{else if @member}}
   {{#link class="upgrade-link" href="/membership/"}}{{t "Upgrade"}}{{/link}}
 {{else}}
+  {{#link class="signin-link" href="/signin/"}}{{t "Sign in"}}{{/link}}
+  {{#link class="signup-link header-cta" href="/signup/"}}{{t "Sign up"}}{{/link}}
+{{/if}}
 ~~~
-### sidebar.hbs 수정
+### partials/sidebar.hbs 수정
 ~~~
 # 불필요한 유료 권유 제거
 {{!-- Subscribe--}}
