@@ -192,6 +192,7 @@ RSS 제외 {{!-- --}} 가두기
 ~~~
 
 ### footer 변경
+site-footer.hbs
 ~~~
 # 불필요한 멤버권유 제거
 {{!-- Footer subscription --}}
@@ -237,16 +238,23 @@ smtp credential 에서 키 받아서 사용
 
 
 ## 4. 기타 설정
-### account.hbs 수정
+### member/account.hbs 수정
 ~~~
 # 불필요한 유료 권유 제거
-<div class="col-xs-12 col-md-4 m-b-lg{{#if @member}} col-md-offset-2{{/if}}">
-  {{> pricing/monthly}}
-</div>
-
-<div class="col-xs-12 col-md-4 m-b-lg">
-  {{> pricing/yearly}}
-</div>
+    {{!-- Logged in, not paying: Check out --}}
+    <div class="checkout__form">
+      <div class="checkout__title m-b text-center fw-600 text-acc-3">{{t "Choose your plan"}}</div>
+      
+      <div class="row">
+        <div class="col-xs-12 col-md-4 m-b-lg{{#if @member}} col-md-offset-2{{/if}}">
+          {{> pricing/monthly}}
+        </div>
+        
+        <div class="col-xs-12 col-md-4 m-b-lg">
+          {{> pricing/yearly}}
+        </div>
+      </div>
+    </div>
 ~~~
 ### membership.hbs 수정
 ~~~
