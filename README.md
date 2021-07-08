@@ -304,3 +304,14 @@ smtp credential 에서 키 받아서 사용
 {{/if}}
 {{/is}}
 ~~~
+
+## 5. 테마추가설정
+
+### assets/css/extra/abc.css 추가
+deafult.hbs preloading 아래 
+
+~~~
+<link rel="stylesheet" type="text/css" href="{{asset 'css/extra/abc.css'}}">
+~~~
+
+추가
