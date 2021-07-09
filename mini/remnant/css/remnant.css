@@ -1,0 +1,43 @@
+.box_traitlist {
+    display: table;
+}
+
+.trait_traitlist {
+    display: table-row;
+}
+
+.iconbox_traitlist, .info_traitlist {
+    display: table-cell;
+}
+
+..iconbox_traitlis {
+    width: 30%;
+}
+
+
+.icon_traitlist {
+
+}
+
+.name_traitlist, .detail_traitlist {
+    display: table-row;
+}
+
+.name_traitlist {
+    text-align: center;
+    vertical-align: middle;
+}
+
+
+
+.box_trait {
+    display: table;
+}
+
+.box_icon_trait, .effect_trait, .perpoint_trait {
+    display: table-cell;
+}
+
+.upper_trait, .lower_trait {
+    display: table-row;
+}
