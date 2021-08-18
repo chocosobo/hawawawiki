@@ -315,3 +315,6 @@ deafult.hbs preloading 아래
 ~~~
 
 추가
+
+### theme-config.hbs color 수정
+다크와 미드나이트만 남기기

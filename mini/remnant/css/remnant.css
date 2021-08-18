@@ -1,5 +1,6 @@
 .box_traitlist {
     display: table;
+    width:100%;
 }
 
 .trait_traitlist {
@@ -8,15 +9,11 @@
 
 .iconbox_traitlist, .info_traitlist {
     display: table-cell;
+    vertical-align: top;
 }
 
-..iconbox_traitlis {
-    width: 30%;
-}
-
-
-.icon_traitlist {
-
+.iconbox_traitlist {
+    width: 25%;
 }
 
 .name_traitlist, .detail_traitlist {
@@ -24,20 +21,53 @@
 }
 
 .name_traitlist {
-    text-align: center;
-    vertical-align: middle;
+    font-size: x-large;
 }
 
 
 
-.box_trait {
+.box_trait, .detail_trait {
     display: table;
+    width: 100%;
 }
 
-.box_icon_trait, .effect_trait, .perpoint_trait {
+.box_icon_trait {
     display: table-cell;
+    vertical-align: top;
+    width: 30%;
+}
+
+.cell_trait {
+    width: 40%;
+    display: table-cell;
+    text-align: center;
 }
 
 .upper_trait, .lower_trait {
     display: table-row;
+}
+
+.upper_trait {
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.box_equip {
+    display: table;
+    text-align: center;
+}
+
+.gun_equip {
+    display: table-cell;
+    width: 66%;
+}
+
+.mod_equip {
+    display: table-cell;
+    width: 34%;
+}
+
+.acc_equip {
+    display: table-cell;
+    width: 50%;
 }
