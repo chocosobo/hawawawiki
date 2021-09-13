@@ -59,7 +59,7 @@
 
 .gun_equip {
     display: table-cell;
-    width: 66%;
+    width: 78%;
 }
 
 .mod_equip {
@@ -69,5 +69,153 @@
 
 .acc_equip {
     display: table-cell;
-    width: 50%;
+}
+
+
+
+
+.t_armor {
+    display: table;
+    width: 100%;
+}
+
+.box_armor {
+    display: table-row;
+}
+
+.image_armor {
+    display: table-cell;
+    width: 20%;
+}
+
+.info_armor {
+    display: table-cell;
+    width: 80%;
+    vertical-align: top;
+    text-align: center;
+}
+
+.name_armor, .box_armorskill, .perlv_armor, .get_armor {
+    width: 100%;
+}
+
+.name_armor {
+    font-size: x-large;
+}
+
+.skill_armor {
+    display: table-cell;
+    width: 25%;
+}
+
+.skill_info_armor {
+    display: table-cell;
+    width: 100%;
+    text-align: left;
+    vertical-align: middle;
+}
+
+
+
+.t_trinket {
+    display: table;
+    width: 100%;
+}
+
+.box_trinket {
+    display: table-row;
+}
+
+.image_trinket {
+    display: table-cell;
+    width: 25%;
+}
+
+.info_box_trinket {
+    display: table-cell;
+    width: 75%;
+    vertical-align: top;
+}
+
+.name_trinket {
+    display: table-row;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.info_trinket, .get_trinket {
+    display: table-row;
+}
+
+.t_weapon{
+    display: table;
+    width: 100%;
+    text-align: center;
+}
+
+.image_weapon {
+    font-size: x-large;
+}
+
+.info_weapon {
+    display: table;
+}
+
+.row_weapon {
+    display: table;
+    width: 100%;
+}
+
+.cell_weapon {
+    display: table-cell;
+    width: 33%;
+}
+
+.t_mod {
+    display: table;
+}
+
+.image_mod {
+    display: table-cell;
+    width: 30%;
+    text-align: center;
+    font-size: large;
+}
+
+.info_mod {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.row_mod {
+    display: table-row;
+    width: 100%;
+}
+
+.t_item {
+    display: table;
+}
+
+.box_item {
+    display: table-row;
+}
+
+.image_item {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    width: 20%;
+}
+
+.info_item {
+    display: table-cell;
+}
+
+.name_item {
+    font-size: large;
+    display: table-row;
+}
+
+.detail_item {
+    display: table-row;
 }
